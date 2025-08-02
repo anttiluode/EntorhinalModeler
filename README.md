@@ -13,6 +13,8 @@ The central hypothesis, inspired by computational neuroscience, is that coherent
 This approach is heavily inspired by the paper:
 *   **Blair, H. T., Welday, A. C., & Zhang, K. (2007). *Scale-Invariant Memory Representations Emerge from Moiré Interference between Grid Fields That Produce Theta Oscillations*. The Journal of Neuroscience.**
 
+  https://pubmed.ncbi.nlm.nih.gov/17376982/
+
 That paper proposed that the brain's hexagonal grid cells (part of the brain's "GPS") are formed by the Moiré interference of smaller, underlying "theta grids." This tool applies that principle to visualize the interference patterns driven by various brainwave frequencies from actual EEG recordings.
 
 ## Features
