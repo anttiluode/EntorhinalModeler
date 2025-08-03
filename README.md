@@ -1,5 +1,7 @@
 # EEG Moiré Visualizer: The Enhanced Entorhinal Modeler
 
+UPDATE: Added the new modeler number 4 with interesting network synchronization mode that Claude somehow came up with. (Not based on the paper that inspired the previous code) 
+
 This tool provides a real-time visualization of the Moiré interference patterns generated from real-world EEG data. It models the brain's electrical activity as a series of interfering wave fields, allowing you to see the emergent geometric structures that may underlie cognitive processes.
 
 The primary goal is to take the faint, complex signals from a single EEG channel and amplify and translate them into a visible, dynamic, geometric landscape.
